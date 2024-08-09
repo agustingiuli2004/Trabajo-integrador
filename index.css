@@ -1,0 +1,76 @@
+body{background-color:rgb(197, 197, 197);}
+.titulo{
+    text-align:center;
+    background-color:blue;
+    padding: 5%;
+}
+.log{width: 100%;}
+.subtitulo{
+    text-align: center;
+    text-decoration:underline;
+    font-size: 50px;
+
+}
+.titu{font-size: 200%;text-align: center;background-color: grey;}
+
+.navegador{
+ 
+    display: flex;
+    height: 20%;
+    background-color:grey;
+    margin: 1%;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style: none;
+    float:inline-start;
+    margin: 0 20px;
+    color: #000000;
+    padding: 8px 16px;
+    font-weight: 400;
+    background-color:#fcfcfc;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+.componentes{display: inline;
+    display: flex;
+    flex-wrap: wrap; flex-basis: 100%;
+}
+.producto {padding: 1%; background-color: grey;margin:1% ;width: 90%;
+}
+.imagen{width: 40%;border-radius: 1%;}
+
+p{
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 150%;
+}
+.boton{
+   
+
+    text-align: center;
+    
+    
+}
+footer{text-align: end;font-size: 150%;}
+.bot{font-size:20px;
+    color: #fff;
+    padding: 1%;
+    font-weight: 600;
+    background-color: blue;
+    }
+
+    .formu{ 
+        background-color:grey; 
+    ; color: 
+        antiquewhite;
+  Padding: 8%;
+}
+.for {display: flex; 
+    flex-direction:column; 
+    width: 100%;
+    }
+.ima{width: 20%;}
+.Tit{text-decoration: underline; font-size: 30px; font-style: italic;}
